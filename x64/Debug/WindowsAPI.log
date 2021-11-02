@@ -1,0 +1,36 @@
+﻿  Player.cpp
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(64,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(64,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(65,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(65,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(96,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(96,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(97,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(97,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(98,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(98,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(226,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(226,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(235,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(235,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(465,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(467,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(480,84): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(500,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(502,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(515,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(517,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(527,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(624,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(662,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(821,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(823,31): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(831,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(833,32): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(838,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(839,29): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(853,31): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(871,31): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(872,33): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\취업준비\POTOFOLIO\카타나 제로\Player.cpp(888,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  WindowsAPI.vcxproj -> H:\취업준비\POTOFOLIO\카타나 제로\x64\Debug\WindowsAPI.exe

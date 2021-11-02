@@ -1,0 +1,183 @@
+﻿  pch.cpp
+  animation.cpp
+  Boss.cpp
+  bullets.cpp
+H:\카타나 제로\bullets.cpp(33,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+H:\카타나 제로\bullets.cpp(39,49): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(44,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(44,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(59,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(59,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(133,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(133,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(149,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(149,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(206,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+H:\카타나 제로\bullets.cpp(215,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(215,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(227,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\bullets.cpp(227,43): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  CSound.cpp
+H:\카타나 제로\CSound.h(5,10): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.h': No such file or directory
+  effect.cpp
+  effectManager.cpp
+  Enemy.cpp
+H:\카타나 제로\Enemy.cpp(27,24): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Enemy.cpp(28,24): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Enemy.cpp(51,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Enemy.cpp(51,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Enemy.cpp(73,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Enemy.cpp(73,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Enemy.cpp(76,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Enemy.cpp(76,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Enemy.cpp(77,17): warning C4477: 'sprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+H:\카타나 제로\Enemy.cpp(79,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Enemy.cpp(79,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Enemy.cpp(83,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Enemy.cpp(83,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Enemy.cpp(87,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Enemy.cpp(87,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+  enemyManager.cpp
+H:\카타나 제로\enemyManager.cpp(42,7): warning C4101: 'str' :참조되지 않은 지역 변수입니다.
+  gameManager.cpp
+H:\카타나 제로\gameManager.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  gameNode.cpp
+H:\카타나 제로\gameNode.cpp(87,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\gameNode.cpp(88,36): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\gameNode.cpp(82,8): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+H:\카타나 제로\gameNode.cpp(81,14): warning C4101: 'ps' :참조되지 않은 지역 변수입니다.
+  image.cpp
+H:\카타나 제로\image.cpp(70,106): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\image.cpp(70,52): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(10824,1): message : 'LoadImageW' 선언을 참조하십시오.
+H:\카타나 제로\image.cpp(118,106): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\image.cpp(118,52): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(10824,1): message : 'LoadImageW' 선언을 참조하십시오.
+H:\카타나 제로\image.cpp(172,106): error C2664: 'HANDLE LoadImageW(HINSTANCE,LPCWSTR,UINT,int,int,UINT)': 인수 2을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\image.cpp(172,52): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(10824,1): message : 'LoadImageW' 선언을 참조하십시오.
+H:\카타나 제로\image.cpp(482,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\image.cpp(482,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\image.cpp(488,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\image.cpp(488,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\image.cpp(493,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\image.cpp(493,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\image.cpp(506,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\image.cpp(506,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  imageManager.cpp
+  keyManager.cpp
+  Normal.cpp
+  pixelCollision.cpp
+  Player.cpp
+H:\카타나 제로\Player.cpp(58,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(58,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(59,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(59,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(90,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(90,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(91,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(91,47): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(131,46): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(131,30): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(134,46): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(134,30): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(137,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(137,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(140,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(140,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(143,47): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(143,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(152,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(152,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(156,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(156,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(159,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(159,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(164,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(164,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(167,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(167,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(171,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(171,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(174,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(174,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(177,49): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [128]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\Player.cpp(177,31): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\Player.cpp(270,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(270,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(281,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(281,46): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(496,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(498,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(511,84): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(531,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(533,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(546,14): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(548,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(558,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(655,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(696,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(840,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(842,31): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(850,33): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(852,32): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(857,33): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(858,29): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(872,31): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(890,31): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(891,33): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\Player.cpp(907,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  playGround.cpp
+  progressBar.cpp
+H:\카타나 제로\progressBar.cpp(24,36): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\카타나 제로\progressBar.cpp(49,3): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  sceneManager.cpp
+  timeManager.cpp
+H:\카타나 제로\timeManager.cpp(51,59): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char [256]'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\timeManager.cpp(51,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+H:\카타나 제로\timeManager.cpp(52,38): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\timeManager.cpp(52,22): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\timeManager.cpp(56,39): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\timeManager.cpp(56,23): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+H:\카타나 제로\timeManager.cpp(60,39): error C2664: 'BOOL TextOutW(HDC,int,int,LPCWSTR,int)': 인수 4을(를) 'char [256]'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\timeManager.cpp(60,23): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(5101,25): message : 'TextOutW' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  timer.cpp
+H:\카타나 제로\timer.cpp(71,39): error C2664: 'int wsprintfW(LPWSTR,LPCWSTR,...)': 인수 1을(를) 'char *'에서 'LPWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\timer.cpp(71,12): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(333,1): message : 'wsprintfW' 선언을 참조하십시오.
+  txtData.cpp
+H:\카타나 제로\txtData.cpp(33,9): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\txtData.cpp(33,20): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : 'CreateFileW' 선언을 참조하십시오.
+H:\카타나 제로\txtData.cpp(46,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+H:\카타나 제로\txtData.cpp(49,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+H:\카타나 제로\txtData.cpp(62,9): error C2664: 'HANDLE CreateFileW(LPCWSTR,DWORD,DWORD,LPSECURITY_ATTRIBUTES,DWORD,DWORD,HANDLE)': 인수 1을(를) 'const char *'에서 'LPCWSTR'(으)로 변환할 수 없습니다.
+H:\카타나 제로\txtData.cpp(62,20): message : 가리킨 형식이 관련이 없습니다. 변환하려면 reinterpret_cast, C 스타일 캐스트 또는 함수 스타일 캐스트가 필요합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\fileapi.h(94,1): message : 'CreateFileW' 선언을 참조하십시오.
+  utils.cpp
+  WindowsAPI.cpp
+  코드를 생성하고 있습니다...
